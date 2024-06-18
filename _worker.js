@@ -1013,7 +1013,7 @@ clash-meta
 	// HTML Head with CSS and FontAwesome library
 	const htmlHead = `
   <head>
-	<title>tunnel: VLESS configuration</title>
+	<title>免费提供节点订阅连接</title>
 	<meta name='description' content='This is a tool for generating VLESS protocol configurations. Give us a star on GitHub https://ansoncloud8.github.io if you found it useful!'>
 	<style>
 	body {
