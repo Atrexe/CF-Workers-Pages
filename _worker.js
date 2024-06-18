@@ -44,7 +44,7 @@ let fakeHostName = generateRandomString();
 
 let sub = 'worker.amcloud.filegear-sg.me';// 内置优选订阅生成器，可自行搭建
 let subconverter = 'url.v1.mk';// clash订阅转换后端，目前使用肥羊的订阅转换功能。自带虚假uuid和host订阅。
-let subconfig = "https://raw.githubusercontent.com/ansoncloud88/ACL4SSR/main/Clash/config/ACL4SSR_Online_Full_MultiMode.ini"; //订阅配置文件
+let subconfig = "https://raw.githubusercontent.com/Atrexe/ACL4SSR/main/Clash/config/ACL4SSR_Online_Full_MultiMode.ini"; //订阅配置文件
 
 
 if (!isValidUUID(userID)) {
