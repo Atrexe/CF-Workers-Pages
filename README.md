@@ -11,4 +11,13 @@
 3. 作者对任何人或团体使用该项目进行的任何非法活动不承担责任。使用者使用该项目时产生的任何后果由使用者本人承担。
 4. 作者不对使用该项目可能引起的任何直接或间接损害负责。
 5. 通过使用该项目，使用者表示理解并同意本免责声明的所有条款。如果使用者不同意这些条款，应立即停止使用该项目。
-
+已适配自适应订阅内容
+v2rayN
+v2rayU
+sing-box
+clash.meta（clash-verge-rev ，Clash Nyanpasu，clash-verge，ClashX Meta、openclash）
+Quantumult X
+小火箭
+surge
+感谢
+3Kmfi6HP、ACL4SSR、肥羊订阅转换
