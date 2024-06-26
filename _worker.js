@@ -9,7 +9,7 @@ import { connect } from 'cloudflare:sockets';
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
 let userID = '866853eb-5293-4f09-bf00-e13eb237c655';
 
-const proxyIPs = ['cdn.xn--b6gac.eu.org', 'cdn-all.xn--b6gac.eu.org', 'workers.cloudflare.cyou'];
+const proxyIPs = ['online.uprrp.edu', 'habc.org', 'superpremios.app'];
 
 // if you want to use ipv6 or single proxyIP, please add comment at this line and remove comment at the next line
 let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
@@ -1015,7 +1015,6 @@ clash-meta
 	const header = `
 <p align='center'>
 <b style='font-size: 15px;'>欢迎！这是生成 VLESS 协议的配置：</b>
-<a href='https://github.com/ansoncloud8/am-tunnel' target='_blank'>am-tunnel</a>
 <a href='//${hostName}/sub/${userIDArray[0]}' target='_blank'>VLESS节点订阅连接(v2rayU、v2rayN等工具)自动生成</a> <button onclick='copyToClipboard("${sublink}")'><i class="fa fa-clipboard"></i> Copy</button>
 <a href='${subbestip}' target='_blank'>VLESS节点订阅连接(v2rayU、v2rayN等工具)优选IP</a> <button onclick='copyToClipboard("${subbestip}")'><i class="fa fa-clipboard"></i> Copy</button>
 <a href='clash://install-config?url=${encodeURIComponent(`https://${hostName}/sub/${userIDArray[0]}?format=clash`)}}' target='_blank'>Clash节点订阅连接(clash-verge-rev、openclash等工具)自动生成</a> <button onclick='copyToClipboard("${clashlink}")'><i class="fa fa-clipboard"></i> Copy</button>
