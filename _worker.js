@@ -37,7 +37,7 @@ let autoaddress = [
 ];
 
 let FileName = 'Workers';
-let tagName = '收费就说明被骗了'
+let tagName = 'Pages'
 let SUBUpdateTime = 6;
 let total = 99;//PB
 //let timestamp = now;
