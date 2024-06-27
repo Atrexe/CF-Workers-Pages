@@ -27,14 +27,12 @@ let addressesapi = [
 
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
-	'icook.tw:443#',//官方优选域名
-	//'cloudflare.cfgo.cc:443#优选官方线路',
-	'visa.com:443#优选IP'
+	'icook.tw:443#永久免费更新',//官方优选域名
+	'visa.com:443#收费就说明被骗了'
 ];
 
 let autoaddress = [
 	'icook.tw:443',
-	'cloudflare.cfgo.cc:443',
 	'visa.com:443'
 ];
 
