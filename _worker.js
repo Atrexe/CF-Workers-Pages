@@ -36,7 +36,7 @@ let autoaddress = [
 	'visa.com:443'
 ];
 
-let FileName = '永久免费更新';
+let FileName = 'Workers';
 let tagName = '收费就说明被骗了'
 let SUBUpdateTime = 6;
 let total = 99;//PB
