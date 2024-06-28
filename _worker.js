@@ -27,7 +27,7 @@ let addressesapi = [
 
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
-	'icook.tw:443#永久免费更新',//官方优选域名
+	'icook.tw:443#XXX',//官方优选域名
 	'visa.com:443#收费就说明被骗了'
 ];
 
